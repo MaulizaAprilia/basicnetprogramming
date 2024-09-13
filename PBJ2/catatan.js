@@ -1,4 +1,5 @@
+//b. import file pada node.js
 const ambilCatatan = function () {
-    return 'Ini Catatan Mauliza Aprilia...'
+    return 'Ini Catatan saya...'
 }
 module.exports = ambilCatatan
